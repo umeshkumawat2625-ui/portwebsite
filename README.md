@@ -16,7 +16,7 @@ A **detail-oriented Data Analyst** who turns messy datasets into actionable busi
 
 I focus on **customer behavior analysis, revenue leakage detection, and operational efficiency** — bridging the gap between raw data and executive decision-making. Passionate about using SQL, Python, Power BI, and GenAI tools to surface insights that actually move the needle.
 
-> 📍 Ujjain, Madhya Pradesh | Open to Data Analyst / Business Analyst roles (Fresher)
+> 📍 Hyderabad,Telangana | Open to Data Analyst / Business Analyst roles (Fresher)
 
 ---
 
